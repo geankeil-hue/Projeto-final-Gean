@@ -1,1 +1,1 @@
-# Portifólio para a avaliação do Professor Jefferson.
+# Este é meu portifólio onde fala sobre quem eu sou,minhas habilidades,objetivos e também meus trabalhos,este projeto começou de forma simples com apenas algumas palavras e frases conforme o passar do tempo fui adicionando funções e fui comitando elas para as pessoas saberem o andamento e a linha do tempo do projeto,este portifólio foi feito com o intuito do professor Jefferson avaliar durante a aula do dia 02/10/2026,espero que tenham gostado.
